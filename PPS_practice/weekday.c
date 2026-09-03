@@ -1,3 +1,4 @@
+//program that displays day of the week
 #include<stdio.h>
 
 void main()
